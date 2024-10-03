@@ -1,0 +1,29 @@
+.all{
+    display: flex;
+    background-color: black;
+    align-items: center;
+    height: 200px;
+    justify-content:space-around;
+}
+.left{
+    height: 200px;
+}
+.A{
+    list-style: none;
+    text-decoration: none;
+    color: aliceblue;
+    margin-left: 20px;
+}
+.imgnav{
+    width: 200px;
+}
+.btn{
+    width: 130px;
+    height: 60px;
+    color: white;
+    border: 1px solid;
+    border-radius: 20px;
+}
+.right{
+    padding: 10px;
+}
